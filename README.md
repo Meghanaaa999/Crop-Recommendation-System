@@ -194,13 +194,7 @@ The project includes:
 - Disease Detection Module
 - Mobile Application
 
----
 
-## Author
-
-**Meghana Arthimalla**
-
-B.Tech Student | Machine Learning Enthusiast
 
 GitHub: https://github.com/your-github-username
 
